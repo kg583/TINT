@@ -1,0 +1,4 @@
+L1(1:If 1<dim(L2:Then
+	For(Y,2,dim(L1
+		gcd(Ans,L1(Y
+	End
