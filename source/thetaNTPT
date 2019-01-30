@@ -1,0 +1,83 @@
+If not(fPart(.5N:Then
+	0:Return
+End
+If Ans="TD
+Then
+	max(N={2,3,5
+	If N>=7 and fPart(.5N
+	min(fPart(N/(3+2cumSum(not(binompdf(int(.5sqrt(N)),0
+Else:If Ans="AD
+	Then:0
+		If not(fPart(N/3:Return
+		For(Y,5,sqrt(N),6
+			If not(fPart(N/Y:Return
+			If not(fPart(N/(Y+2
+			Return
+		End:1
+	Else:If Ans="PD
+		Then
+			sqrt(N->X:prgmthetaNTPG
+			min(fPart(N/L1
+		Else:If Ans="Ftheta
+			Then
+				N->M:Ans-1->K
+				prgmthetaNTMX:Ans=1
+			Else:If Ans="FR
+				Then:1+int((N-1)rand->theta
+					"Ftheta":prgmthetaNTPT
+				Else:If Ans="Stheta" or Ans="MR
+					Then:N-1
+						Repeat fPart(.5Ans
+						Ans/2:End:Ans->K:N->M
+						prgmthetaNTMX:Ans=1
+					Else:If Ans="SR
+						Then:2+int((N-2)rand->theta
+							"Stheta":prgmthetaNTPT
+						Else:If Ans="Etheta
+							Then:N->M:.5(Ans-1->K
+								prgmthetaNTMX:Ans^^2=1
+							Else:If Ans="ER
+								Then:1+int((N-1)rand->theta
+									"Etheta":prgmthetaNTPT
+								Else:If Ans="LU
+									Then:prgmthetaNTLS
+										N->theta:P^^2-4Q->N
+										prgmthetaNTLJ:theta-Ans->K:theta->N
+										not(fPart(|u(K)/Ans
+									Else:If Ans="LS
+										Then:prgmthetaNTLS
+											N->theta:P-4Q->N
+											prgmthetaNTLJ:theta-Ans
+											Repeat fPart(.5Ans
+											Ans/2:End:Ans->K:theta->N
+											not(fPart(|u(K)/Ans
+										Else:If Ans="LE
+											Then
+												"LS":prgmthetaNTPT
+												If Ans:Then
+													round(NfPart(|v(K)/N),0
+													Ans=2 or Ans=N-2
+												End
+											Else:If Ans="BP
+												2->theta:"Stheta":prgmthetaNTPT
+												If Ans:Then:N->theta:3->N:1->P
+													While Ans!=~1
+														2+abs(N
+														Ans(~1)^(.5(Ans+3->N
+														prgmthetaNTLJ
+													End:4^^-1(1-N->Q
+													"LS":prgmthetaNTPT
+											End:Else:If Ans="FB
+												Then
+													"LU":prgmthetaNTPT
+													If Ans:Then:prgmthetaNTLS
+														N->theta:P^^2-4Q->N
+														prgmthetaNTLJ:theta-Ans->K:theta->N
+														round(AnsfPart(|v(K)/Ans),0
+														K=theta-1 and Ans=2 or K=theta+1 and not(fPart((Ans-2Q)/N
+												End:Else:If Ans="FI
+													Then:1->P:~1->Q
+														"LU":prgmthetaNTPT
+													Else:If Ans="PL
+														Then:2->P:~1->Q
+															"LU":prgmthetaNTPT
