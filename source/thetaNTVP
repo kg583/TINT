@@ -1,0 +1,6 @@
+~1->Z:If P=1:Return
+N:If Ans=1:Then
+0:Return:End
+Repeat fPart(Ans
+	Ans/P:IS>(Z,Z:
+End:Z
