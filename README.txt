@@ -101,7 +101,7 @@ Programs (return is Ans unless otherwise stated; if a return is also stored in a
 --"CK": Coprime to K; v1.1
 --"PR": N has primitive roots; v1.1
 --"θR": θ is a primitive root modulo N; v1.1
---"SH": Sphenic
+--"SH": Sphenic; v1.1
 -NTJK: Jordan's totient of N base K
 -NTLCM: LCM of L1
 -NTLI: Intersection of L1 and L2 --> L3
