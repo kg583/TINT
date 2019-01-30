@@ -1,0 +1,10 @@
+1->Z:If N=1 or theta=1:Return
+For(Y,1,W
+	|LP(Y->M
+	If Ans=2:Then
+		abs(4-8fPart(theta/8
+		(Ans=3)-(Ans=1
+	Else:.5(Ans-1->K
+		prgmthetaNTMX
+		If Ans=N-1:~1
+End:ZAns->Z:End
