@@ -1,0 +1,11 @@
+ClrList L1
+For(Y,1,W
+	|LP(Y->P:|LA(Y
+	If P=2 and Ans>2
+	Then
+		.5P^(Ans-1)(P-1
+	Else
+		P^(Ans-1)(P-1
+	End:Ans(1->L1(Y
+End
+prgmthetaNTLCM
