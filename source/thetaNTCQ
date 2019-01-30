@@ -1,0 +1,6 @@
+cos(2piN/Q
+For(Y,2,Q-1
+	If 1=gcd(Y,Q
+	Ans+cos(2piNY/Q
+End
+round(Ans,0
