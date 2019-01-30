@@ -109,7 +109,8 @@ Programs (return is Ans unless otherwise stated; if a return is also stored in a
 -NTLS: Establish Lucas sequences U(P,Q) & V(P,Q) --> u & v (respectively); v1.1
 -NTMO: Multiplicative order of θ mod M
 -NTMU: Mobius function of N (w/o known factorization)
--NTMX: θ^K mod M (modular exponentiation algorithm)
+-NTMX: θ^K mod M (modular exponentiation algorithm, preserves θ and K)
+-NTMZ: θ^K mod M (fast modular exponentiation algorithm, destroys θ andK); v1.1
 -NTN: TINT data initialization for N
 -NTPF: Prime factorization of N; does not preserve N
 -NTPG: List of primes up to X --> L1
