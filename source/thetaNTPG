@@ -1,0 +1,12 @@
+ClrList L2
+{5,7,11,13,17,19->L1:23->Y
+While Ans<=X:sqrt(Ans+2
+	If not(fPart(Ans
+	Ans->L2(1+dim(L2
+	Y:If min(fPart(Ans/L2
+	Ans->L1(1+dim(L1:Ans+2
+	If min(fPart(Ans/L2
+	Ans->L1(1+dim(L1:Ans+4->Y
+End
+augment({2,3},L1->L1
+If X<23:sum(L1<=X->dim(L1
