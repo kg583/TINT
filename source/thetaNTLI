@@ -1,0 +1,5 @@
+ClrList L3
+For(L,1,dim(L1
+	L1(L:If max(L2=Ans
+	Ans->L3(1+dim(L3
+End
