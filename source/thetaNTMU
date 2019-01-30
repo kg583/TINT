@@ -1,0 +1,5 @@
+cos(2pi/N:For(Y,2,N-1
+	If 1=gcd(Y,N
+	Ans+cos(2piY/N
+End
+round(Ans,0
