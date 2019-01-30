@@ -1,0 +1,15 @@
+2:If not(fPart(.5N
+Return
+3:If not(fPart(N/3
+Return
+6fPart(P/6
+If P>9 and 5!=Ans:Then
+	P-1-Ans
+Else:5:End:Ans->P
+If N>=Ans^^2:Then
+	For(Y,P,sqrt(N),6
+		Y:If not(fPart(N/Ans
+		Return
+		Ans+2:If not(fPart(N/Ans
+		Return
+End:Else:N:End
