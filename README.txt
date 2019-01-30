@@ -12,7 +12,6 @@ Updated in v1.1
 -Removed all remainder( commands to allow support for older OS's
 -Added primality/probable prime tests (see documentation for θNTPT)
 -Added Lucas sequence generation (see documentation for θNTLS)
--Added Bernoulli sequence generation (see documentation for θNTBS and θNTBN)
 -Added more numerical properties to θNTIS
 -Adjusted variable allocation for less shuffling (most inputs that are "bases" are now θ instead of Q)
 -Better edge case support
