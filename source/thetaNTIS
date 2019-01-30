@@ -1,0 +1,61 @@
+If Ans="CM
+Then
+	0:If not(C:not(max(remainder(N-1,|LP-1
+Else:If Ans="LC
+	Then
+		0:If U^^2:not(max(remainder(N+1,|LP+1
+	Else:If Ans="KP
+		Then:S=KN
+		Else:If Ans="GI
+			Then
+				0:If U^^2:not(max(remainder(N-|LP,|LP^^2
+			Else:If Ans="SF
+				Then:U^^2
+				Else:If Ans="KS
+					Then:K>=max(|LP
+					Else:If Ans="KR
+						Then:K<=min(|LP
+						Else:If Ans="PW
+							Then
+								max(|LA)>1 and max(|LA)=min(|LA
+							Else:If Ans="AB
+								Then:B
+								Else:If Ans="PF
+									Then:2<=min(|LA
+									Else:If Ans="UN
+										Then:max(|LP)>sqrt(N
+										Else:If Ans="RF
+											Then:not(fPart(D/N
+											Else:If Ans="SP
+												Then:W=2 and O=2
+												Else:If Ans="NH
+													Then:min(fPart((|LP-1)/4
+													Else:If Ans="AP
+														Then:A=N-1
+														Else:If Ans="KH
+															Then:N=1+K(S-N-1
+															Else:If Ans="HP
+																Then:2S=N
+																Else:If Ans="BL
+																	Then
+																		0:If W=2:6=sum(4fPart(|LP/4
+																	Else:If Ans="RG
+																		Then:5>=max(|LP
+																		Else:If Ans="HD
+																			Then:not(fPart(NT/S
+																			Else:If Ans="AR
+																				Then:not(fPart(S/T
+																				Else:If Ans="PP
+																					Then:N=1+sum(N/|LP
+																					Else:If Ans="KA
+																						Then:O=K
+																						Else:If Ans="CK
+																							Then:min(fPart(K/|LP
+																							Else:If Ans="PR
+																								Then
+																									If 2!=|LP(1:Then:W=1
+																									Else:N=2 or N=4 or W=2 and 1=|LA(1
+																								End:Else:If Ans="thetaR
+																									Then:prgmthetaNTMO:Ans=N-1
+																									Else:If Ans="SH
+																										Then:W=3 and O=3
