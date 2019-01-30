@@ -1,0 +1,5 @@
+For(K,1,M
+	prgmthetaNTMX
+	If Ans=1:Then
+		K:Return
+End:End:0
