@@ -1,0 +1,9 @@
+"PR":prgmthetaNTIS
+If Ans:Then
+	1->theta:N->M:Ans-1->K:Ans->N
+	prgmthetaNTET:Ans->N
+	For(theta,2,M-1
+		prgmthetaNTMO
+		If Ans=M-1:theta->L1(1+dim(L1
+		If N=dim(L1:M->theta
+	End
