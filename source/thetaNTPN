@@ -1,0 +1,8 @@
+L1->L2:2+L1(dim(L1->Y
+sum(not(cumSum(L1>sqrt(Ans->dim(L2:1->X
+While X:sqrt(Y
+	If not(fPart(Ans
+	Ans->L2(1+dim(L2
+	Y:If Xmin(fPart(Ans/L2
+	DelVar XAns->Z:Ans+2->Y
+End:Z->L1(1+dim(L1
