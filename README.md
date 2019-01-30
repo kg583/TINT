@@ -4,7 +4,8 @@ TINT, or TI Number Theory, is a package of lists and programs designed for numbe
 These programs are designed to be used as subprograms for larger projects, and are optimized for numbers less than 10^14.
 TINT's main feature is the precomputation of many arithmetic properties of a given input number stored for later use (e.g. number of divisors, totient function, etc.).
 
-To install, simply download and open the group TINT. All TINT programs are denoted by θNT followed by 2 or 3 characters.
+To install, simply download and open the group TINT, or you may download/copy individuals programs directly.
+All TINT programs are denoted by θNT followed by 2 or 3 characters.
 The following variables and lists are defined for an input N after executing the program θNTN.
 Most programs also require the factorization of N to be defined via θNTN (exceptions are noted below).
 
