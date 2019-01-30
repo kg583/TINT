@@ -126,7 +126,7 @@ Programs (return is Ans unless otherwise stated; if a return is also stored in a
 --"ER": Euler probable prime test with random base
 --"LU": Lucas probable prime test for parameters P & Q
 --"LS": Strong Lucas probable prime test for parameters P & Q
---"LS": Extra strong Lucas probable prime test for parameters P & Q
+--"LE": Extra strong Lucas probable prime test for parameters P & Q
 --"BP": Baillie-PSW primality test
 --"FB": Frobenius probable prime test for parameters P & Q
 --"FI": Fibonacci probable prime test
