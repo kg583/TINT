@@ -1,0 +1,6 @@
+prgmthetaNTFP:Ans->P
+Ans->|LP(1+dim(|LP
+prgmthetaNTVP:N/P^Z->N
+Z->|LA(1+dim(|LA
+If N=1:Return
+prgmthetaNTPF
