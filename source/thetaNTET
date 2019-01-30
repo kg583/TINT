@@ -1,0 +1,4 @@
+not(fPart(.5N->X:2
+For(Y,2+X,N-2-X,1+X
+	Ans+(1=gcd(N,Y
+End
