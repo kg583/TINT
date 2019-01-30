@@ -1,0 +1,5 @@
+{1->L1:not(fPart(.5N->X
+For(Y,2+X,N-1,1+X
+	If min(fPart(Y/|LP
+	Y->L1(1+dim(L1
+End
