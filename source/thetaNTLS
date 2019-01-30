@@ -1,0 +1,4 @@
+"P|u([recursiven]-1)-Q|u([recursiven]-2->|u
+|u->|v:0->nMin
+{1,0->u(nMin)
+{Q,2->v(nMin)
