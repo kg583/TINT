@@ -1,4 +1,4 @@
-# TINT Package v1.1 Info
+# TINT Package v1.2 Info
 
 TINT, or TI Number Theory, is a package of lists and programs designed for number theoretic computation and analysis on the TI-83+ series of calculators.
 These programs are designed to be used as subprograms for larger projects, and are optimized for numbers less than 10^14.
