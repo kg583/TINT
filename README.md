@@ -66,8 +66,8 @@ Most programs also require the factorization of N to be defined via θNTN (excep
 * U: Unitary divisors of N (those divisors with multiplicity 1)
 
 ## Premade Lists
--P100: All primes < 100
--P1000: All primes < 1000
+* P100: All primes < 100
+* P1000: All primes < 1000
 
 # Programs
 Return is Ans unless otherwise stated; if a return is also stored in a variable, it is denoted in parentheses
