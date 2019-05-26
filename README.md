@@ -115,7 +115,7 @@ Return is Ans unless otherwise stated; if a return is also stored in a variable,
 * NTMO: Multiplicative order of θ mod M
 * NTMU: Mobius function of N (w/o known factorization)
 * NTMX: θ^K mod M (modular exponentiation algorithm, preserves θ and K)
-* NTMZ: θ^K mod M (fast modular exponentiation algorithm, destroys θ andK); v1.2
+* NTMZ: θ^K mod M (fast modular exponentiation algorithm, destroys θ and K); v1.2
 * NTN: TINT data initialization for N
 * NTPF: Prime factorization of N; does not preserve N
 * NTPG: List of primes up to X --> L1
@@ -143,4 +143,4 @@ Return is Ans unless otherwise stated; if a return is also stored in a variable,
 Have any questions? Found a bug?
 Contact kg583 on TI-Basic Developer.
 
-Copyright © Kevin Gomez 2018. All rights reserved.
+Copyright © Kevin Gomez 2018-2019. All rights reserved.
