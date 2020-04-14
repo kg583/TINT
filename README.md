@@ -141,6 +141,6 @@ Return is Ans unless otherwise stated; if a return is also stored in a variable,
 * NTVP: Multiplicity of P in N (--> Z)
 
 Have any questions? Found a bug?
-Contact kg583 on TI-Basic Developer.
+Contact kg583 on TI-Basic Developer or Cemetech.
 
-Copyright © Kevin Gomez 2018-2019. All rights reserved.
+Copyright © Kevin Gomez 2018-2020. All rights reserved.
