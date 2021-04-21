@@ -19,7 +19,7 @@ Most programs also require the factorization of N to be defined via θNTN (excep
 * General bug fixes
 
 # Updated in v1.2
-* Added Zeda's fast moduler exponentian algorithm (see documentation for θNTMZ)
+* Added Zeda's fast modular exponentiation algorithm (see documentation for θNTMZ)
 
 # Vars
 ## Properties
@@ -143,4 +143,4 @@ Return is Ans unless otherwise stated; if a return is also stored in a variable,
 Have any questions? Found a bug?
 Contact kg583 on TI-Basic Developer or Cemetech.
 
-Copyright © Kevin Gomez 2018-2020. All rights reserved.
+Copyright © Kevin Gomez 2018-2021. All rights reserved.
